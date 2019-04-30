@@ -1,0 +1,6 @@
+2019-04-29 23:10:07,407  WARN CharyparNagelActivityScoring:235 There are opening or closing times defined for the first and last activity. The correctness of the scoring function can thus not be guaranteed.
+2019-04-29 23:10:07,407  WARN CharyparNagelActivityScoring:236 first activity: [type=home][coord=null][linkId=0-1][startTime=undefined][endTime=09:00:00][duration=undefined][facilityId=0]
+2019-04-29 23:10:07,407  WARN CharyparNagelActivityScoring:237 last activity: [type=home][coord=null][linkId=0-1][startTime=10:00:00][endTime=undefined][duration=undefined][facilityId=0]
+2019-04-29 23:10:07,408  WARN CharyparNagelActivityScoring:235 There are opening or closing times defined for the first and last activity. The correctness of the scoring function can thus not be guaranteed.
+2019-04-29 23:10:07,408  WARN CharyparNagelActivityScoring:236 first activity: [type=home][coord=null][linkId=0-1][startTime=undefined][endTime=10:00:00][duration=undefined][facilityId=0]
+2019-04-29 23:10:07,408  WARN CharyparNagelActivityScoring:237 last activity: [type=home][coord=null][linkId=0-1][startTime=11:00:00][endTime=undefined][duration=undefined][facilityId=0]
